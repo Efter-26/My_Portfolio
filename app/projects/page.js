@@ -4,7 +4,7 @@ const projects = [
   {
     title: "TravelBook",
     desc: "TravelBook is a full-stack travel booking platform designed to make trip planning seamless and efficient. The platform enables users to search, book, and manage travel services such as flights, hotels, and packages with a smooth user experience.",
-    link: "https://jade-conkies-7eb358.netlify.app/",
+    link: "https://travel-book-site.vercel.app/",
     image: "/travelbook.png", // Image in public/
   },
   {
