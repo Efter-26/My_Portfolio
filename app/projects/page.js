@@ -2,10 +2,17 @@ import Image from "next/image";
 
 const projects = [
   {
+    title: "TravelBook",
+    desc: "TravelBook is a full-stack travel booking platform designed to make trip planning seamless and efficient. The platform enables users to search, book, and manage travel services such as flights, hotels, and packages with a smooth user experience.",
+    link: "https://jade-conkies-7eb358.netlify.app/",
+    image: "/travelbook.png", // Image in public/
+  },
+  {
     title: "Better E Mart Landing & Backend",
     desc: "Landing page and full backend for Better E Mart using React, Next.js, Node.js, Express & MongoDB. Includes role-based access, order logic, and API.",
     link: "https://ornate-kringle-858b0e.netlify.app/",
     image: "/better.png", // Image in public/
+
   },
   {
     title: "Social Newsfeed App",
